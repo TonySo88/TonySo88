@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-Here are some ideas to get you started:
+About.me:
 
 - 🔭 I’m currently working on ... Front End JavaScript personal projects
 - 🌱 I’m currently attending ... Lambda School
